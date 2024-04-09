@@ -30,4 +30,4 @@ ArgoCD буде доступний у випадку локальної маши
 
 ![ArgoCD sync](./ArgoCD_sync.gif)
 
-some useless text for the test
+Again some useless text for the test
