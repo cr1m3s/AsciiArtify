@@ -9,4 +9,4 @@ set auto sync: `argocd app set <APPNAME> --sync-policy automated`
 
 ![app demo and push](./app_demo_push.gif)
 
-![sync example](./syncresult.gif)
+![sync example](./sync_result.gif)
